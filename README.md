@@ -4,11 +4,9 @@ This repository is the implementation of [***Scalable Discrete Supervised Hash L
 
 ## Requirements
 
-numpy
-
-scipy
-
-caffe
+* numpy
+* scipy
+* caffe
 
 ## Running the code
 

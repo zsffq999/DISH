@@ -1,6 +1,6 @@
 # DISH
 
-This repository is the implementation of [***Scalable Discrete Supervised Hash Learning with Asymmetric Matrix Factorization***](https://arxiv.org/abs/1609.08740) (Full paper version, the short paper version is to appear on ICDM'16).
+This repository is the implementation of [***Scalable Discrete Supervised Hash Learning with Asymmetric Matrix Factorization***](https://arxiv.org/abs/1609.08740) (Full paper version, the short paper version is to appear on **ICDM'16**).
 
 ## Requirements
 
